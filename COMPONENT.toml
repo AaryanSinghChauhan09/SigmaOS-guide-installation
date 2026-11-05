@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-guide-installation"
+tier = 4
+description = "Installation guide validator and partition recipe generator for SigmaOS"
+contracts = ['installation-guide', 'partition-recipe-validator', 'uefi-guidelines']
+upstream_inspirations = ['https://github.com/linuxmint/doc-installation-guide']
